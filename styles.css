@@ -1,0 +1,42 @@
+body {
+    font-family:"Gill Sans Extrabold", sans-serif;
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color: #01200F;
+}
+.container {
+    margin-top: 30px;
+}
+.jumbotron {
+    background-color: #50735D;
+}
+.well {
+    background-color: #50735D;
+    border: 1px solid #104F55;
+    margin-bottom: 20px;
+}
+.label-info {
+    background-color: #32746D;
+    color: #011B09;
+}
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.btn-primary {
+    background-color: #011502;
+    border-color: #011502;
+    color: #fff;
+}
+
+.btn-warning {
+    background-color: #104F55;
+    border-color: #104F55;
+    color: #fff;
+}
+.btn-danger {
+    background-color: #9EC5AB;
+    border-color: #9EC5AB;
+    color: #fff;
+}
